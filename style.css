@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: gray;
+}
+#racc{
+  background-color: black;
+  color: orange;
+}
+p{
+  color: white;
+}
+#pl{
+  text-align: center;
+}
+h2{
+  background-color: black;
+  color: yellow;
+}
+.im{
+  width: 40%;
+}
